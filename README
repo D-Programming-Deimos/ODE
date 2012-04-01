@@ -1,0 +1,22 @@
+ODE D bindings
+--------------
+
+Version: 0.12
+
+The Open Dynamics Engine (ODE) is a physics engine in C/C++. Its two main
+components are a rigid body dynamics simulation engine and a collision
+detection engine. It is free software licensed both under the BSD
+license and the LGPL.
+
+ODE was started in 2001 and has already been used in many applications and
+games, such as BloodRayne 2, Call of Juarez, S.T.A.L.K.E.R, Titan Quest,
+World of Goo, X-Moto and OpenSimulator.
+
+License: dual licensed under the LGPL and BSD licenses:
+    http://www.ode.org/ode-license.html
+
+Plain C header port by Daniel "q66" Kolesa <quaker66@gmail.com>.
+Original comments kept intact, sometimes with snippets of C code,
+possible DDoc conversion.
+
+C headers available in the c/ directory.
