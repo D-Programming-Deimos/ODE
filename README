@@ -3,8 +3,8 @@ ODE D bindings
 
 Version: 0.12
 
-The Open Dynamics Engine (ODE) is a physics engine in C/C++. Its two main
-components are a rigid body dynamics simulation engine and a collision
+The Open Dynamics Engine (ODE) is a physics engine in C/C++.
+Its two main components are a rigid body dynamics simulation engine and a collision
 detection engine. It is free software licensed both under the BSD
 license and the LGPL.
 
